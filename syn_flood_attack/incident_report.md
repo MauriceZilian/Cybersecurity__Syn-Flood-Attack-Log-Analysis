@@ -25,7 +25,7 @@ At approximately **14:32 local time**, the web server at **192.168.1.10** began 
 
 ### Log Snippet:
 
-14:32:10.121234 IP 202.0.112.0.45321 > 192.168.1.10.80: Flags [S], seq 100123, win 64240, length 0
+14:32:10.121234 IP 202.0.112.0.45321 > 192.168.1.10.80: Flags [S], seq 100123, win 64240, length 0  
 14:32:10.121245 IP 202.0.112.0.45322 > 192.168.1.10.80: Flags [S], seq 100124, win 64240, length 0
 ...
 
