@@ -20,9 +20,9 @@ Die Untersuchung der Netzwerkprotokolle ergab eine ungewöhnlich hohe Anzahl ein
 
 Beispielhafte Einträge aus `simulated_log.md`:
 
-14:01:12.123456 IP 202.0.112.0.54321 > 192.168.1.10.80: Flags [S], seq 1234567890, win 64240
-14:01:12.123789 IP 202.0.112.0.54322 > 192.168.1.10.80: Flags [S], seq 1234567891, win 64240
-14:01:12.124123 IP 202.0.112.0.54323 > 192.168.1.10.80: Flags [S], seq 1234567892, win 64240
+14:01:12.123456 IP 202.0.112.0.54321 > 192.168.1.10.80: Flags [S], seq 1234567890, win 64240  
+14:01:12.123789 IP 202.0.112.0.54322 > 192.168.1.10.80: Flags [S], seq 1234567891, win 64240  
+14:01:12.124123 IP 202.0.112.0.54323 > 192.168.1.10.80: Flags [S], seq 1234567892, win 64240  
 ...
 
 
