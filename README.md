@@ -31,8 +31,8 @@ It aims to demonstrate an understanding of **network traffic**, especially TCP, 
 
 ### 📁 Files
 
-- [`simulated_log.md`](simulated_log.md): Simulated raw log data (similar to tcpdump output)
-- [`incident_report_syn_flood.md`](incident_report_syn_flood.md): Structured incident report with explanation and mitigation strategies
+- [`simulated_log.md`](syn_flood_attack/simulated_log.md): Simulated raw log data (similar to tcpdump output)
+- [`incident_report_syn_flood.md`](syn_flood_attack/incident_report.md): Structured incident report with explanation and mitigation strategies
 
 ### 🎯 Learning Objectives
 
