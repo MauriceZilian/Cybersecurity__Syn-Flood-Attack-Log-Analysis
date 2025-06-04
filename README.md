@@ -12,8 +12,8 @@ Ziel ist es, das Verständnis von Netzwerkprotokollen, insbesondere TCP, sowie d
 
 ### 📁 Dateien
 
-- [`simulated_log.md`](simulated_log.md): Simulierter Rohdaten-Log (tcpdump-ähnlich)
-- [`incident_report_syn_flood.md`](incident_report_syn_flood.md): Strukturierter Incident Report mit Interpretation und Maßnahmen
+- [`Simulierer Log`](syn_flood_angriff/simulierter_log.md): Simulierter Rohdaten-Log (tcpdump-ähnlich)
+- [`Incident Report`](syn_flood_angriff/incident_report.md): Strukturierter Incident Report mit Interpretation und Maßnahmen
 
 ### 🎯 Lernziel
 
@@ -31,8 +31,8 @@ It aims to demonstrate an understanding of **network traffic**, especially TCP, 
 
 ### 📁 Files
 
-- [`simulated_log.md`](syn_flood_attack/simulated_log.md): Simulated raw log data (similar to tcpdump output)
-- [`incident_report_syn_flood.md`](syn_flood_attack/incident_report.md): Structured incident report with explanation and mitigation strategies
+- [`Simulated Log`](syn_flood_attack/simulated_log.md): Simulated raw log data (similar to tcpdump output)
+- [`Incident Report`](syn_flood_attack/incident_report.md): Structured incident report with explanation and mitigation strategies
 
 ### 🎯 Learning Objectives
 
