@@ -59,5 +59,5 @@ This pattern matches a **SYN flood attack**, where the attacker sends many incom
 
 ---
 
-📝 *This report was created as part of a personal cybersecurity learning project. The logs are simulated and were designed to mirror real-world analysis challenges in incident response.*
+📝 *This report was created as part of a personal cybersecurity learning project. The logs are simulated.
 
