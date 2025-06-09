@@ -41,7 +41,3 @@ It aims to demonstrate an understanding of **network traffic**, especially TCP, 
 - Develop **real-world mitigation** approaches (e.g., SYN cookies, rate limiting)
 - Apply terminology and practices from **incident response** procedures
 
----
-
-📝 Dieses Projekt ist Teil meiner persönlichen Vorbereitung im Bereich Cybersecurity.  
-Es wurde komplett eigenständig entwickelt, um praxisnahe Analysefähigkeiten zu dokumentieren.
