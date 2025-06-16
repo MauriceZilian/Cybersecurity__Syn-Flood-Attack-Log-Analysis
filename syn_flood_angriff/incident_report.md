@@ -41,7 +41,6 @@ Beispielhafte Einträge aus `simulated_log.md`:
 - Temporäres Blockieren der IP-Adresse (Firewall)
 - Aktivierung von **SYN-Cookies**
 - Reduktion des TCP-Timeouts für halb-offene Verbindungen
-- Logging eskaliert an das SIEM-System zur Alarmierung
 
 ## ✅ Langfristige Maßnahmen
 
@@ -53,4 +52,3 @@ Beispielhafte Einträge aus `simulated_log.md`:
 ## 📌 Fazit
 
 Dieser simulierte Angriff zeigt, wie durch einfache SYN-Flood-Techniken kritische Systeme lahmgelegt werden können.  
-Die Fähigkeit, Rohlogs auszuwerten und daraus fundierte Maßnahmen abzuleiten, ist zentral für effektive Cybersicherheit.
